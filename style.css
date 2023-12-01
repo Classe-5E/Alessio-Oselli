@@ -1,4 +1,30 @@
 
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    }
+    
+    
+    form{
+        background-color: grey;
+        width: fit-content;
+        padding: 1em;
+        border-radius: 1em;
+        color : black;
+        margin: auto;
+        font-family: 'Trebuchet MS';
+    }
+    
+    .flex-row{
+        display: flex;
+        gap: 1em;
+    }
+
+
 a, li, ul, p{
     all: unset;
 }
